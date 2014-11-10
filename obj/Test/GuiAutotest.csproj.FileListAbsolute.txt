@@ -1,0 +1,31 @@
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\GuiAutotest.dll
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\WebDriver.dll
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\WebDriver.Support.dll
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\WebDriver.xml
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\WebDriver.Support.xml
+C:\education\first\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.Properties.Resources.resources
+C:\education\first\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.csproj.GenerateResource.Cache
+C:\education\first\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.dll
+C:\education\first\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.csprojResolveAssemblyReference.cache
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\resource\auth.csv
+C:\education\first\GuiAutotest\GuiAutotest\bin\Test\resource\data.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\data.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\auth.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\GuiAutotest.dll
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\WebDriver.dll
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\WebDriver.Support.dll
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\WebDriver.xml
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\WebDriver.Support.xml
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.csprojResolveAssemblyReference.cache
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.csproj.GenerateResource.Cache
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\obj\Test\GuiAutotest.dll
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\paymentdata.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\ronzerocomsuc.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\ronzerocomdecl.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\rongdsdecl.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\roncomdecl.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\declinezerocommission.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\successzerocommission.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\successall.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\bin\Test\resource\gdsdecline.csv
+\\it-online\fr\users\a.palchikova\My Documents\Visual Studio 2012\Projects\ToneyProjects\autorizedDDT\GuiAutotest\GuiAutotest\obj\Test\RunEnviroment.Properties.Resources.resources

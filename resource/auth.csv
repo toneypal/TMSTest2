@@ -1,0 +1,9 @@
+﻿Number,Login,Password,Parameter
+1,v.khomutov,tester321,ctl00$content$LeftMenu1$mhlAccount
+2,info@smart-travel.ru, works123,ctl00$ctl11$mhlSites
+3,info@smart-travel.ru,tester321,ctl00_content_cvLogon
+4,v.khomutov,works123,ctl00_content_cvLogon
+5,incorrectlogin,tester321,ctl00_content_cvLogon
+6,v.khomutov,incorrectpassword,ctl00_content_cvLogon
+7,,tester321,ctl00_content_rfvLogin
+8,v.khomutov,,ctl00_content_tbPassword

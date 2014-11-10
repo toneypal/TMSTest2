@@ -1,0 +1,33 @@
+Number,Gateway,MerchantId,initialValueOfOrderId,Amount,Currency,Commission,PNR,SecurityKey,Status
+Avia2Split
+1,Commission Avia2Split Test gateway,61599,300,20.00,RUB,3.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Declined отказ комиссии
+//2,GDS Test Gateway,61599,300,20.00,RUB,3.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796 отказ комиссии
+3,Commission Avia2Split Test gateway,61599,300,20.00,RUB,4.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Pending все успешные
+4,GDS Test Gateway,61599,300,20.00,RUB,4.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Pending все успешные
+5,Commission Avia2Split Test gateway,61599,300,21.00,RUB,4.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Voided отказ GDS
+6,GDS Test Gateway,61599,300,21.00,RUB,4.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Declined отказ GDS
+//7,Commission Avia2Split Test gateway,61599,300,21.00,RUB,0.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796 отказ при нулевой комиссии
+8,GDS Test Gateway,61599,300,21.00,RUB,0.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796 отказ при нулевой комиссии
+//9,Commission Avia2Split Test gateway,61599,300,20.00,RUB,0.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796 успех при нулевой комисси
+10,GDS Test Gateway,61599,300,20.00,RUB,0.00,M0BXCQ,cf151491-352d-4247-9965-091f140d1796,Pending успех при нулевой комисси
+GDS Test Gateway
+11,GDS Test Gateway,66876,300,20.00,RUB,3.00,M0BXCQ,a7127945-ac38-4cff-b61e-d59fced3fccd отказ комиссии
+12,GDS Test Gateway,66876,300,20.00,RUB,4.00,M0BXCQ,a7127945-ac38-4cff-b61e-d59fced3fccd все успешные
+13,GDS Test Gateway,66876,300,21.00,RUB,4.00,M0BXCQ,a7127945-ac38-4cff-b61e-d59fced3fccd отказ GDS
+14,GDS Test Gateway,66876,300,21.00,RUB,0.00,M0BXCQ,a7127945-ac38-4cff-b61e-d59fced3fccd отказ при нулевой комиссии
+15,GDS Test Gateway,66876,300,20.00,RUB,0.00,M0BXCQ,a7127945-ac38-4cff-b61e-d59fced3fccd успех при нулевой комиссии
+Commission Avia2Split Test gateway
+16,Commission Avia2Split Test gateway,65875,300,20.00,RUB,3.00,M0BXCQ,b1020109-0433-47df-bdac-904355a8883c отказ комиссии
+17,Commission Avia2Split Test gateway,65875,300,20.00,RUB,4.00,M0BXCQ,b1020109-0433-47df-bdac-904355a8883c все успешные
+18,Commission Avia2Split Test gateway,65875,300,21.00,RUB,4.00,M0BXCQ,b1020109-0433-47df-bdac-904355a8883c отказ GDS
+19,Commission Avia2Split Test gateway,65875,300,21.00,RUB,0.00,M0BXCQ,b1020109-0433-47df-bdac-904355a8883c отказ при нулевой комиссии
+20,Commission Avia2Split Test gateway,65875,300,20.00,RUB,0.00,M0BXCQ,b1020109-0433-47df-bdac-904355a8883c успех при нулевой комиссии
+
+
+
+1,"Commission Avia2Split Test gateway","MerchantId=65875","Amount=20.00","Currency=RUB","Commission=4.00","PNR=M0BXCQ","PrivateSecurityKey=b1020109-0433-47df-bdac-904355a8883c",Declined
+
+2,"Commission Avia2Split Test gateway","MerchantId=61599","Amount=20.00","Currency=RUB","Commission=4.00","PNR=M0BXCQ","PrivateSecurityKey=cf151491-352d-4247-9965-091f140d1796",Pending
+
+//Assert.IsTrue(TestUtils.CheckStatusTransaction(orderIdForFilter, gateway, status, merchantId, driver), "Status is not as expected!");
+

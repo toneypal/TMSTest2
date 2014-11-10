@@ -1,0 +1,2 @@
+﻿Number,Gateway,MerchantId,Amount,Currency,Commission,PNR,IData,SecurityKey,CommissionTransactionStatus,GDSTransactionStatus,IDataTransactionStatus,RoutedMid
+1,2,61599,"Amount=21.00","Currency=RUB","Commission=4.00","PNR=M0BXCQ",,"PrivateSecurityKey=cf151491-352d-4247-9965-091f140d1796",Voided,Declined,,
